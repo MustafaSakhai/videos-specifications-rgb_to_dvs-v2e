@@ -1,4 +1,4 @@
-# videos-specifications-rgb_to_dvs-v2e
+# Videos specifications to convert RGB videos to DVS videos using V2E
 Get video specifications/parameters for V2E script to convert videos from RGB to DVS events. 
 
 # Dependencies
@@ -9,7 +9,7 @@ Python: 3.10.14
 1. Download the "v2e_specifications.py" file.
 2. Install OpenCV and argparse libraries using
 ```bash
-pip install cv2
+pip install opencv-python
 pip install argparse
 ```
 3. Run the script
