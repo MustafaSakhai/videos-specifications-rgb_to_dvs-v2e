@@ -14,7 +14,7 @@ pip install argparse
 ```
 3. Run the script
 ```bash
-python v2e_specifications.py -i /Users/mustafa/PycharmProjects/v2e_video_to_events_rgb_to_dvs/v2e/input/video_0132.mp4
+python v2e_specifications.py -i /Users/..../PATH_TO_YOUR_VIDEO.mp4
 ```
 
 ```bash
