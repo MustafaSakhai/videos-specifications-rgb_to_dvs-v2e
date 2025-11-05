@@ -1,4 +1,4 @@
-# Videos specifications to convert RGB videos to DVS videos using V2E
+# Videos specifications to convert RGB videos to DVS videos used for V2E
 Get video specifications/parameters for V2E script to convert videos from RGB to DVS events. 
 
 # Dependencies
